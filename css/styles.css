@@ -95,6 +95,7 @@ background: #2e2f42;
 /*----------------------section2-------------------------------*/
 .team {
     background: #f4f4fd;
+    text-transform: capitalize;
 }
 .team-item {
     background: #fff;
@@ -130,6 +131,7 @@ background: #2e2f42;
 /*----------------------section3-------------------------------*/
 .portfolio {
     background: #fff;
+    text-transform: capitalize;
 }
 .portfolio-title {
     font-family: "Roboto", sans-serif;
