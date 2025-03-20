@@ -96,6 +96,9 @@ background: #2e2f42;
 }
 /*----------------------section1-------------------------------*/
 /*----------------------section2-------------------------------*/
+.team {
+    background: #f4f4fd;
+}
 .team-title {
     font-family: "Roboto", sans-serif;
         font-weight: 700;
