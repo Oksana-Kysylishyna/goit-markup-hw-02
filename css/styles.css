@@ -9,6 +9,12 @@ ul, ol{
 a{
     text-decoration: none;
 }
+.button {
+    cursor: pointer;
+}
+.portfolio{
+    text-transform: capitalize;
+}
 .logo {
 font-family: "Raleway", sans-serif;
     font-weight: 700;
