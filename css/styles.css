@@ -101,7 +101,6 @@ background: #2e2f42;
     background: #fff;
 }
 .team-title {
-    font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
@@ -110,7 +109,6 @@ background: #2e2f42;
         color: #2e2f42;
 }
 .team-title-com {
-    font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -119,7 +117,6 @@ background: #2e2f42;
         color: #2e2f42;
 }
 .team-title-text {
-    font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -134,7 +131,6 @@ background: #2e2f42;
     text-transform: capitalize;
 }
 .portfolio-title {
-    font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
@@ -143,7 +139,6 @@ background: #2e2f42;
         color: #2e2f42;
 }
 .portfolio-title-com {
-    font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -151,7 +146,6 @@ background: #2e2f42;
         color: #2e2f42;
 }
 .portfolio-title-text {
-    font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -167,7 +161,6 @@ background: #2e2f42;
     color: #f4f4fd;
 }
 .text-footer {
-font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
